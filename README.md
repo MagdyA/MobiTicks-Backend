@@ -1,4 +1,4 @@
-# Intelligent Mobile Bus Ticketing System
+#  Mobile Ticketing System
 
 ### Description
 The issue of fast, safe, and non-distracting payment method is very
