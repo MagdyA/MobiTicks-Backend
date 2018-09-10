@@ -41,9 +41,9 @@ services. PHP Laravel communicates with MySQL database to store and
 retrieve passengers’ data.
 
 ### Dashboard
-[Imobuts Admin](http://imobuts.herokuapp.com/admin)
+[MobiTicks Admin](http://imobuts.herokuapp.com/admin)
 * Username : admin
 * Password : admin
 
 ### API DOCS
-[Imobuts DOCS](https://imobuts.herokuapp.com/docs)
+[MobiTicks DOCS](https://imobuts.herokuapp.com/docs)
